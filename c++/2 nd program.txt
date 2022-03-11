@@ -1,0 +1,22 @@
+#include <iostream>
+
+using namespace std;
+
+int main(){
+
+  float x,y,z;
+
+  cout<<"Enter the first number:";
+
+  cin>>x;
+
+  cout<<"\nEnter the second number:";
+
+  cin>>y;
+
+  z=x*y;
+
+  cout<<"\nThe product of number is:"<<z;
+
+  return 0;
+
